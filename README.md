@@ -1,4 +1,4 @@
-### Hola! 
+### Hola! 👋
 
 Sou estudante de Desenvolvimento Full-stack e aqui podemos colaborar!
 
