@@ -1,5 +1,4 @@
 ### Hey! 
-<! -
 
 Sou estudante de Desenvolvimento Full-stack e aqui podemos colaborar!
 
@@ -9,4 +8,3 @@ Sou estudante de Desenvolvimento Full-stack e aqui podemos colaborar!
 - ⚡ Curiosidade: Tenho um bot que identifica os Git Clone's aqui..hehe;
 
 #Bora 🚀
-->
