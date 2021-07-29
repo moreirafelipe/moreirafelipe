@@ -1,10 +1,10 @@
 ### Hi! 👋
 
-I'm IT Analyst, Full-Stack student, and pasionate for web solutions development!
+<p>I'm IT Analyst, Full-Stack student, and pasionate for web solutions development!
 
 Let's stay in touch.
 
-I appreciate developing and colaborating on open-source projects. Check my stats bellow and join my ride. Let's create something good!
+I appreciate developing and colaborating on open-source projects.</p>
 
 <div style="display: inline_block">
   <a href="https://github.com/FlipeFrontDev">
@@ -20,5 +20,5 @@ I appreciate developing and colaborating on open-source projects. Check my stats
   <img align="center" alt="Flipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Flipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-#Bora 🚀
+  
+ <p>Let's create something good!</p>
