@@ -14,7 +14,7 @@ Let's stay in touch!
 <p>My current skills (some proprietary codes aren't published here):</p>
 
 <div style="display: inline_block; text-decoration: none; list-style: none; color: #000; cursor: none;"><br>
-  <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/FlipeFrontDev">
+  
   <img align="center" alt="Flipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Flipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Flipe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
@@ -22,7 +22,7 @@ Let's stay in touch!
   <img align="center" alt="Flipe-Python" width="30" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Flipe-CSharp" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Flipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</a>
+
 </div>
 
 <br>
@@ -30,7 +30,7 @@ Let's stay in touch!
 <p>I appreciate developing and colaborating on open-source projects.</p>
 
 <div style="display: flex; flex-wrap: nowrap;">
-    <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/FlipeFrontDev">
+
     <img style="text-decoration: none; list-style: none;" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=flipefrontdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img style="text-decoration: none; list-style: none;"  width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipefrontdev&layout=compact&langs_count=7&theme=dark"/></a>
+    <img style="text-decoration: none; list-style: none;"  width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipefrontdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
