@@ -6,10 +6,10 @@ Let's stay in touch.
 
 I appreciate developing and colaborating on open-source projects. Check my stats bellow and join my ride. Let's create something good!
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/FlipeFrontDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flipefrontdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipefrontdev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipefrontdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <p>Currently, I've been studying Javascript, which's my core stack purpose. Furthemore, there's other technologies I've been working into:</p>
