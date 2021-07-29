@@ -17,6 +17,13 @@ Let's stay in touch!
 <p>I appreciate developing and colaborating on open-source projects.</p>
 
 <div style="display: flex; flex-wrap: nowrap; margin: 0;">
+   <a style="text-decoration: none; list-style: none; color: #000;" href="https://github.com/FlipeFrontDev">
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=flipefrontdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flipefrontdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<br>
+  
+ <div style="display: block">
+   <p>Let's create something great!🚀</p>
+ </div>
