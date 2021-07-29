@@ -13,6 +13,21 @@ Let's stay in touch!
   </div>
   
   <br>
+  
+  <p>My current Skills (codes not published here at all):</p>
+  
+  <br>
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Flipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Flipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Flipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Flipe-SQLSrv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/sql-original.svg">
+  <img align="center" alt="Flipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Flipe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  </div>
+  
+  <br>
 
 <p>I appreciate developing and colaborating on open-source projects.</p>
 
