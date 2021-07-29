@@ -1,4 +1,4 @@
-##Hi! 👋
+ ## Hi 👋
 
 <p>I'm IT Analyst, Full-Stack student, and pasionate for web solutions development!</p>
 
