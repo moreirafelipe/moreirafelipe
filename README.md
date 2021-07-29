@@ -1,6 +1,6 @@
  ## Hi 👋
 
-<p>I'm IT Analyst, Full-Stack student, and pasionate for web solutions development!</p>
+<p>I'm IT Analyst, Full-Stack student, and passionate for web solutions development!</p>
 
 Let's stay in touch!
 
@@ -11,7 +11,7 @@ Let's stay in touch!
 
 <br>
 
-<p>My current Skills (codes not published here at all):</p>
+<p>My current Skills (some proprietary codes aren't published here):</p>
 
 <div style="display: inline_block; text-decoration: none; list-style: none; color: #000; cursor: none;"><br>
   <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/FlipeFrontDev">
