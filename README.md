@@ -11,7 +11,7 @@ Let's stay in touch!
 
 <br>
 
-<p>My current Skills (some proprietary codes aren't published here):</p>
+<p>My current kills (some proprietary codes aren't published here):</p>
 
 <div style="display: inline_block; text-decoration: none; list-style: none; color: #000; cursor: none;"><br>
   <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/FlipeFrontDev">
