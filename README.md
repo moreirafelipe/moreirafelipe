@@ -11,22 +11,6 @@ Let's stay in touch!
 
 <br>
 
-<p>My current skills (some proprietary codes aren't published here):</p>
-
-<div style="display: inline_block; text-decoration: none; list-style: none; color: #000; cursor: none;">
-  <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/FlipeFrontDev">
-  <img align="center" alt="Flipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Flipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Flipe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Flipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Flipe-Python" width="30" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Flipe-CSharp" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Flipe-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
-
-</div>
-
-<br>
-
 <p>I appreciate developing and colaborating on open-source projects.</p>
 
 <div style="display: flex; flex-wrap: nowrap;">
