@@ -15,6 +15,6 @@ Let's stay in touch!
 
 <div style="display: flex; flex-wrap: nowrap;">
     <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/moreirafelipe">
-    <img style="text-decoration: none; list-style: none;" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=moreirafelipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img style="text-decoration: none; list-style: none;"  width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirafelipe&layout=compact&langs_count=7&theme=tokyonight"/></a>
+    <img style="text-decoration: none; list-style: none;" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=moreirafelipe&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img style="text-decoration: none; list-style: none;"  width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirafelipe&layout=compact&langs_count=7&theme=onedark"/></a>
 </div>
