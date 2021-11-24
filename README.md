@@ -12,7 +12,6 @@ Let's stay in touch!
 <br>
 
 <p>I appreciate developing and colaborating on open-source projects.</p>
-<p>The masterpiece of manipulation, is to turn the tables at the right time and make your words different from the reality. So, take a look bellow at my stats :).</p>
 
 <div style="display: flex; flex-wrap: nowrap;">
     <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/moreirafelipe">
