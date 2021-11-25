@@ -17,4 +17,9 @@ Let's stay in touch!
     <a style="text-decoration: none; list-style: none; color: #000; cursor: none;" href="https://github.com/moreirafelipe">
     <img style="text-decoration: none; list-style: none;" width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=moreirafelipe&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img style="text-decoration: none; list-style: none;"  width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirafelipe&layout=compact&langs_count=7&theme=gotham"/></a>
+ 
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?username=moreirafelipe)
 </div>
