@@ -1,6 +1,6 @@
  ## Hi 👋
 
-<p>I'm IT Analyst, Full-Stack student, and passionate for web solutions development!</p>
+<p>I'm Data Engineer passionate for the development of data solutions!</p>
 
 Let's stay in touch!
 
