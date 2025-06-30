@@ -1,6 +1,6 @@
  ## Hi 👋
 
-<p>I'm Data Engineer passionate for the development of data solutions!</p>
+<p>I'm Data Engineer passionate developing data solutions!</p>
 
 Let's stay in touch!
 
